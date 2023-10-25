@@ -1,6 +1,4 @@
-# Python Object Relations Assessment
-
-For this assignment, we'll be working with a Yelp-style domain. We have three models - `Restaurant`, `Customer`, and `Review`.  For our purposes, a `Restaurant` is connected to a `Customer` only if that customer writes a review about the restaurant.  
+For this assignment, we'll be working with a restaurant review domain. We have three models - `Restaurant`, `Customer`, and `Review`.  For our purposes, a `Restaurant` is connected to a `Customer` only if that customer writes a review about the restaurant.  
 
 If you are not sketching out your domain, and thinking about single source of truth, you are doing it wrong :(
 
